@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryMonochromatic">#303F9F</color>
+    <color name="colorPrimaryDarkMonochromatic">#1A237E</color>
+    <color name="colorAccentMonochromatic">#3F51B5</color>
+
+
+    <color name="colorQuadratic1">#FF5722</color> <!-- Laranja -->
+    <color name="colorQuadratic2">#4CAF50</color> <!-- Verde -->
+    <color name="colorQuadratic3">#2196F3</color> <!-- Azul -->
+    <color name="colorQuadratic4">#9C27B0</color> <!-- Roxo -->
+
+
+    <color name="colorTriadic1">#2196F3</color> <!-- Azul -->
+    <color name="colorTriadic2">#F44336</color> <!-- Vermelho -->
+    <color name="colorTriadic3">#4CAF50</color> <!-- Verde -->
+
+
+
+    <color name="colorMonochromatic1">#0033A0</color> <!-- Azul Escuro -->
+    <color name="colorMonochromatic2">#0044CC</color> <!-- Azul -->
+    <color name="colorMonochromatic3">#3366FF</color> <!-- Azul Claro -->
+    <color name="colorMonochromatic4">#99CCFF</color> <!-- Azul Muito Claro -->
+
+</resources>
